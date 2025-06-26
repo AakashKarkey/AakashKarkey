@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aakash Karki 🌌</h1>
-<h3 align="center">Aspiring React Native Developer | Final Year IT Student | National Hackathon Finalist | Tech Explorer from Nepal 🇳🇵</h3>
+<h3 align="center">Aspiring React Native Developer | IT Student | National Hackathon Finalist | Tech Explorer from Nepal 🇳🇵</h3>
 
 <p align="center">
   <a href="mailto:yaakash543@gmail.com"><img src="https://img.shields.io/badge/email-yaakash543@gmail.com-red?style=for-the-badge&logo=gmail"></a>
