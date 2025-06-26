@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="mailto:yaakash543@gmail.com"><img src="https://img.shields.io/badge/email-yaakash543@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/aakashkarki7/"><img src="https://img.shields.io/badge/linkedin-AakashKarki-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://instagram.com/aakash_karkey/"><img src="https://img.shields.io/badge/instagram-@your_instagram-purple?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.linkedin.com/in/aakash-karki-701386327/"><img src="https://img.shields.io/badge/linkedin-AakashKarki-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://instagram.com/aakash_karkey/"><img src="https://img.shields.io/badge/instagram-@aakash_karkey-purple?style=for-the-badge&logo=instagram"></a>
 </p>
 
 ---
