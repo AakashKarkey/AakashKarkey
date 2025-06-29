@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring React Native Developer | IT Student | National Hackathon Finalist | Tech Explorer from Nepal 🇳🇵</h3>
 
 <p align="center">
-  <a href="mailto:yaakash543@gmail.com"><img src="https://img.shields.io/badge/email-yaakash543@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:yaakash543@gmail.com"><img src="https://img.shields.io/badge/email-aakash.karki2059@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/aakash-karki-701386327/"><img src="https://img.shields.io/badge/linkedin-AakashKarki-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://instagram.com/aakash_karkey/"><img src="https://img.shields.io/badge/instagram-@aakash_karkey-purple?style=for-the-badge&logo=instagram"></a>
 </p>
