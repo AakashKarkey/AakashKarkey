@@ -39,7 +39,6 @@ Frameworks & Libraries:
   - Express.js
 
 Backend:
-  - FastAPI
   - MongoDB
   - Firebase
   - RESTful APIs
