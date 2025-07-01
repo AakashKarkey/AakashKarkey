@@ -40,7 +40,6 @@ Frameworks & Libraries:
 
 Backend:
   - MongoDB
-  - Firebase
   - RESTful APIs
 
 Tools:
