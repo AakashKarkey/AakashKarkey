@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm Aakash — a passionate IT student currently in my 7th semester. I'm diving deep into **React Native and the MERN Stack** while actively participating in **hackathons, competitions, and community tech events**.  
+I'm Aakash — a passionate IT student currently in my 7th semester. I'm diving deep into **React Native** while actively participating in **hackathons, competitions, and community tech events**.  
 As a **short-tempered yet determined techie**, I believe in pushing limits, whether it's code, design, or ideas.
 
 🔭 Currently Building:  
