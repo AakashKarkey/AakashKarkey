@@ -29,7 +29,6 @@ Languages:
   - JavaScript
   - C/C++
   - Java
-  - Python
   - HTML & CSS
 
 Frameworks & Libraries:
