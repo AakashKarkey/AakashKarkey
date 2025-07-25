@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aakash  🌌</h1>
+<h1 align="center">Hi, I'm Aakash Karki🌌</h1>
 <h3 align="center">Mobile App Developer | IT Student | National Hackathon Finalist | Tech Explorer from Nepal 🇳🇵</h3>
 
 <p align="center">
