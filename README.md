@@ -25,7 +25,7 @@ To become a **top-tier mobile app developer** and contribute to impactful projec
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,java,html,css,react,reactnative,nodejs,express,mongodb,git,github,figma,vscode,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,java,html,css,react,nodejs,express,mongodb,git,github,figma,vscode,vercel,postman" />
 </p>
 
 ---
