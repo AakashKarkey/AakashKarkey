@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aakash Karki🌌</h1>
+<h1 align="center">Hi, I'm Aakash Karki 🌌</h1>
 <h3 align="center">Mobile App Developer | IT Student | National Hackathon Finalist | Tech Explorer from Nepal 🇳🇵</h3>
 
 <p align="center">
@@ -24,29 +24,31 @@ To become a **top-tier mobile app developer** and contribute to impactful projec
 
 ### 🛠️ Tech Stack
 
-```yaml
-Languages:
-  - JavaScript
-  - C/C++
-  - Java
-  - HTML & CSS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,java,html,css,react,reactnative,nodejs,express,mongodb,git,github,figma,vscode,vercel,postman" />
+</p>
 
-Frameworks & Libraries:
-  - React Native (Expo CLI)
-  - React.js
-  - Node.js
-  - Express.js
+---
 
-Backend:
-  - MongoDB
-  - RESTful APIs
+### 📊 GitHub Stats
 
-Tools:
-  - Git & GitHub
-  - Figma
-  - Postman
-  - VS Code
-  - Vercel
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AakashKarki&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashKarki&theme=radical" alt="GitHub Streak" />
+</p>
 
-Version Control:
-  - Git / GitHub
+---
+
+### 🏆 GitHub Achievements & Commit Rank
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AakashKarki&theme=radical&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
+
+---
+
+### 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AakashKarki/AakashKarki/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
