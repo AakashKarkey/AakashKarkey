@@ -13,8 +13,8 @@
 I'm Aakash — a passionate IT student currently in my 7th semester. I'm diving deep into **React Native** while actively participating in **hackathons, competitions, and community tech events**.  
 As a **short-tempered yet determined techie**, I believe in pushing limits, whether it's code, design, or ideas.
 
-🔭 Currently Building:  
-- A **React Native 100-Day Challenge** documented on Instagram and TikTok.  
+🔭 Currently:  
+- I'am working as a Mobile App Developer intern in **Zion Tech Firm PVT LTD**.  
 - Projects focused on **social impact**, including **food donation systems**, **travel safety apps**, and **waste management platforms**.
 
 🎯 My Goal:  
