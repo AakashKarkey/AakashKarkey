@@ -30,13 +30,6 @@ To become a **top-tier mobile app developer** and contribute to impactful projec
 
 ---
 
-### 📈 Profile Overview
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AakashKarkey&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
