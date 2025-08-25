@@ -57,11 +57,6 @@ To become a **top-tier mobile app developer** and contribute to impactful projec
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AakashKarkey/AakashKarkey/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
 
 ---
 
