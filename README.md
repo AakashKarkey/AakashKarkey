@@ -45,9 +45,7 @@ To become a **top-tier mobile app developer** and contribute to impactful projec
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashKarkey&theme=radical&hide_border=true" alt="GitHub Streak" height="180px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashKarkey&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
-</p>
+
 
 ---
 
