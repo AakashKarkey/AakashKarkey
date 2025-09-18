@@ -28,15 +28,6 @@ To become a **top-tier mobile app developer** and contribute to impactful projec
   <img src="https://skillicons.dev/icons?i=js,cpp,java,html,css,react,nodejs,express,mongodb,git,github,figma,vscode,vercel,postman" />
 </p>
 
----
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AakashKarkey&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashKarkey&theme=radical&hide_border=true" alt="GitHub Streak" height="180px"/>
-</p>
 
 
 
