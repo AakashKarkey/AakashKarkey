@@ -10,14 +10,12 @@
 ---
 
 ### 👨‍💻 About Me
-I'm Aakash — a passionate IT student currently in my 8th semester. I'm diving deep into **Kotlin/Java**and **React Native** while actively participating in **hackathons, competitions, and community tech events**.  
+I'm Aakash — a passionate IT student currently in my 8th semester. I'm diving deep into **Kotlin/Java** and **React Native** while actively participating in **hackathons, competitions, and community tech events**.  
 As a **short-tempered yet determined techie**, I believe in pushing limits, whether it's code, design, or ideas.
 
 🔭 Currently:  
 - I'am working as a Software Engineer intern in **City Tech**.
-  **Similarly**
-- Projects focused on **social impact**, including **Receipe Finder systems**, **travel and tourism safety apps**, and **waste management platforms**.
-
+ 
 🎯 My Goal:  
 To become a **top-tier mobile app developer** and contribute to impactful projects while growing through real-world learning and team collaboration.
 
@@ -26,7 +24,7 @@ To become a **top-tier mobile app developer** and contribute to impactful projec
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,java,html,css,react,nodejs,express,mongodb,git,github,figma,vscode,vercel,postman,kotlin" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,java,html,css,react,nodejs,express,mongodb,git,github,figma,vscode,vercel,postman,kotlin,flutter" />
 </p>
 
 
