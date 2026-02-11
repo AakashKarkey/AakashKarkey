@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aakash Karki 🌌</h1>
-<h3 align="center">Mobile App Developer | IT Student | National Hackathon Finalist | Tech Explorer from Nepal 🇳🇵</h3>
+<h3 align="center">Software Engineer | IT Student | National Hackathon Finalist | Tech Explorer from Nepal 🇳🇵</h3>
 
 <p align="center">
   <a href="mailto:aakash.karki2059@gmail.com"><img src="https://img.shields.io/badge/Email-aakash.karki2059@gmail.com-red?style=for-the-badge&logo=gmail"></a>
@@ -17,7 +17,7 @@ As a **short-tempered yet determined techie**, I believe in pushing limits, whet
 - I'am working as a Software Engineer intern in **City Tech**.
  
 🎯 My Goal:  
-To become a **top-tier mobile app developer** and contribute to impactful projects while growing through real-world learning and team collaboration.
+To become a **top-tier Software Engineer** and contribute to impactful projects while growing through real-world learning and team collaboration.
 
 ---
 
